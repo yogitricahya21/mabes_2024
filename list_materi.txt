@@ -4,3 +4,4 @@ List Materi Pelatihan
 3. JS
 4. Laravel
 5. Github
+6. Laravel
