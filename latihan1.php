@@ -9,4 +9,6 @@ echo "Hello World"
 // push adalah perintah
 // origin adalah nama remote
 // "main" adalah branch
+// 4. ngedit dengan modify
+// dengan cara tulis di terminal git add- lalu git commit -u
 ?>
